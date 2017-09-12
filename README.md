@@ -1,5 +1,3 @@
-# Machine Learning Algorithms for Programming Tasks of [Stanford Online course on Coursera](https://www.coursera.org/learn/machine-learning/)
-
 ## Algorithms
 
 1. Linear Regression
